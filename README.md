@@ -34,10 +34,15 @@ For the input \(n\), representing the number of disks on peg A, the program outp
 
 *Output:*
 1 A B
-2 A C
-3 B C
-4 A B
-5 C A
-6 C B
-7 A B
 
+2 A C
+
+3 B C
+
+4 A B
+
+5 C A
+
+6 C B
+
+7 A B
