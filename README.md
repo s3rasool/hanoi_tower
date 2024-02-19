@@ -14,7 +14,9 @@ The recursive approach for solving this problem is implemented in the function `
 
 For a better understanding of the Towers of Hanoi problem and its recursive solution, refer to the following image:
 
-![Tower of Hanoi](Ex_Pic.png)
+![Tower of Hanoi](Ex_Pic.png) ![](Ex_Pic.jpg){ width=50% }
+
+
 
 ## Mathematical Proof:
 
